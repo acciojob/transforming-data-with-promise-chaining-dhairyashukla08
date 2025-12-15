@@ -1,0 +1,4 @@
+{
+    "testRepo": "transforming-data-with-promise-chaining-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
